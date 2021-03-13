@@ -1,1 +1,34 @@
+body {
+  margin-right: 25%;
+  margin-left: 25%;
+}
 
+div.gallery {
+  margin: 15px;
+  padding: 15px;
+  float: left;
+  width: 180px;
+}
+
+#cards_gallery {
+  color: red;
+  font-style: inherit;
+  font-size: 65;
+  padding: 15px;
+  text-align: center;
+}
+
+#lorem {
+  color: deepskyblue;
+
+}
+
+div.gallery img {
+  width: 100%;
+  height: 150;
+}
+
+div.desc {
+  padding: 5px;
+  text-align: justify;
+}
